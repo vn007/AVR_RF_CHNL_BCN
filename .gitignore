@@ -17,6 +17,7 @@ obj
 *.cbp
 *.depend
 *.cscope_file_list
+*.layout
 
 *.o
 *.d
